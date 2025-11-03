@@ -53,10 +53,16 @@ Curiosity drives me — I enjoy exploring topics like distributed systems, API a
 ---
 
 ## 📊 GitHub Activity Snapshot
+
+<!--START_SECTION:activity-->
+_Updating daily..._
+<!--END_SECTION:activity-->
+
+---
+
+## 📈 By the Numbers
 ```text
-🕒 Joined GitHub:          2021  
-📦 Public Repositories:    42  
-🔁 Total Contributions:    3,780+  
-💬 Commits (last 12 mo):   950+  
-🌟 Stars Earned:           180+  
-👥 Followers:              110  
+Languages mastered:    JavaScript, TypeScript, SQL, PHP, Python
+Frameworks loved:      React, Express, NestJS, NextJS
+Databases handled:     MongoDB, PostgreSQL, MySQL
+Coffee consumed:       ☕☕☕☕☕ (and counting)
