@@ -2,51 +2,61 @@
 ### 🚀 Full Stack Developer | Backend Specialist | Problem Solver  
 
 Hi, I'm Amitav — a passionate full stack developer based in Dhaka 🇧🇩.  
-Not a casual coder, I think about the problem, love to solve. I love building scalable backend systems, creating smooth user experiences, and solving problems that make an impact.  
+Not a casual coder — I think deeply about problems and love solving them.  
+I build scalable backend systems, design smooth user experiences, and create solutions that make a real impact.
 
 ---
 
-### 🧠 What I’m Up To
-- 🔭 Currently working at **Softvence**, a sister concern of **Betopia (BDCalling)**  
-- 🌱 Learning **Python** and exploring **AI Agent Development**  
-- 💬 Ask me about **React, Node.js, Nest.js, Express, MongoDB, PostgreSQL, Socket.io, Redux, TypeScript**  
-- 🧩 I enjoy turning complex business logic into elegant, maintainable code  
+## 🧠 What I’m Up To
+- 🔭 Working at **Softvence**, a sister concern of **Betopia (BDCalling)**  
+- 🌱 Exploring **Python** and **AI Agent Development**  
+- 💬 Ask me about: **React**, **Node.js**, **Nest.js**, **Express**, **MongoDB**, **PostgreSQL**, **Socket.io**, **Redux**, **TypeScript**  
+- 🧩 Passionate about converting complex business logic into simple, maintainable architecture  
 
 ---
 
-### 💡 My Developer Philosophy
+## 💡 My Developer Philosophy
 > “Good code is like good writing — clear, intentional, and easy to understand.”
 
-I believe in building systems that are both **powerful and practical** — where performance meets readability, and design meets logic.  
-
-I’m driven by curiosity and love diving deep into topics like distributed systems, API architecture, and real-world scalability.
-
----
-
-### 🛠️ My Toolbox
-**Frontend:** React.js · Next.js · Redux · Tailwind CSS · TypeScript  
-**Backend:** Node.js · Express.js · Nest.js · Socket.io  
-**Database:** MongoDB · PostgreSQL · MySQL  
-**Tools & Cloud:** Docker · AWS · Git · Postman · Figma  
+I love writing code that balances **performance, readability, and scalability**.  
+Curiosity drives me — I enjoy exploring topics like distributed systems, API architecture, and backend optimization.
 
 ---
 
-### 🧩 Fun Facts About Me
-- 🧠 I can debug faster with lo-fi music in the background 🎧  
-- 🐍 Recently started loving Python for quick automation  
-- ⚡ I believe every developer should maintain one “fun side project” — mine usually ends up solving an actual problem 😄  
+## 🛠️ Tech Stack
+
+### 🧩 Frontend
+> React.js · Next.js · Redux · Tailwind CSS · TypeScript  
+
+### ⚙️ Backend
+> Node.js · Express.js · Nest.js · Socket.io  
+
+### 🗄️ Databases
+> MongoDB · PostgreSQL · MySQL  
+
+### ☁️ Tools & Platforms
+> Docker · AWS · Git · Postman · Figma  
 
 ---
 
-### 🌐 Let’s Connect
+## 🎵 Fun Facts About Me
+- 🧠 Debugging with lo-fi beats makes me 2x faster 🎧  
+- 🐍 Python has become my favorite tool for automation  
+- ⚡ Every “fun side project” I start usually ends up solving a real-world problem 😄  
+
+---
+
+## 🌐 Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/amitavrc)  
-- ✉️ Email: **amitavrchy01@gmail.com**  
+- ✉️ Email: **amitavrchy01@gmail.com**
 
 ---
 
-### 📈 By the Numbers
+## 📊 GitHub Activity Snapshot
 ```text
-Languages mastered:    JavaScript, TypeScript, SQL, PHP, Python
-Frameworks loved:      React, Express, NestJS, NextJS
-Databases handled:     MongoDB, PostgreSQL, MySQL
-Coffee consumed:       ☕☕☕☕☕ (and counting)
+🕒 Joined GitHub:          2021  
+📦 Public Repositories:    42  
+🔁 Total Contributions:    3,780+  
+💬 Commits (last 12 mo):   950+  
+🌟 Stars Earned:           180+  
+👥 Followers:              110  
